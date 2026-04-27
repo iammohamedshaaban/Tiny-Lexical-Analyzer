@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88442EDE-6869-48A3-AE1A-487AAF84D505}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88442EDE-6869-48A3-AE1A-487AAF84D505}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88442EDE-6869-48A3-AE1A-487AAF84D505}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\WindowsFormsApp1\\windowsformsapp1\\tinyparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88442EDE-6869-48A3-AE1A-487AAF84D505}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\tinyparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88442EDE-6869-48A3-AE1A-487AAF84D505}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\WindowsFormsApp1\\windowsformsapp1\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88442EDE-6869-48A3-AE1A-487AAF84D505}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88442EDE-6869-48A3-AE1A-487AAF84D505}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88442EDE-6869-48A3-AE1A-487AAF84D505}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TinyParser.cs",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\TinyParser.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\TinyParser.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\TinyParser.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\TinyParser.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAQwI4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:18:44.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Token.cs",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\Token.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Token.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\Token.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:02:17.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwFAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:37:08.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\mosha\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:32:21.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
